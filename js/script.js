@@ -14,6 +14,11 @@
 // console.log(person.firstName);
 // console.log(person["firstName"]);
 
+let quiz = [1, 2, 3];
+let js = [5, 6, 7];
+let result = quiz.concat(js);
+console.log(result);
+
  // 9 Lesson 
     // console.log("arr" + " - object111");
     // console.log(4 + +"5");
